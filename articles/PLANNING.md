@@ -56,3 +56,10 @@
 ## 記事4で未記入の箇所
 
 * 5章「あなたへのメッセージ」：プレースホルダーのまま未執筆
+
+---
+
+## 画像サイズの規定
+
+* サムネイル画像：1280×670px（例：`articles/thumb-03-batsu-taikenhappyo.png`）
+* 本文中に挿入する画像：1280×360px（例：`articles/inline-01-moyamoya.png`）
